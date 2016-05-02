@@ -4,7 +4,7 @@ analysis(ac fields dec) ""
 analysis(ac fields designVar) ""
 analysis(ac fields dev) ""
 analysis(ac fields deviceParam) ""
-analysis(ac fields enable) (t)
+analysis(ac fields enable) (nil)
 analysis(ac fields fim_out) ""
 analysis(ac fields flin_out) ""
 analysis(ac fields freq) ""
@@ -60,7 +60,7 @@ analysis(dc fields dec) ""
 analysis(dc fields designVar) "vindc"
 analysis(dc fields dev) ""
 analysis(dc fields deviceParam) ""
-analysis(dc fields enable) (nil)
+analysis(dc fields enable) (t)
 analysis(dc fields hysteresis) nil
 analysis(dc fields incrType) "Automatic"
 analysis(dc fields lin) ""
@@ -71,11 +71,11 @@ analysis(dc fields param) "vindc"
 analysis(dc fields rangeType) "Start-Stop"
 analysis(dc fields saveOppoint) nil
 analysis(dc fields span) ""
-analysis(dc fields start) "-2m"
+analysis(dc fields start) "-1m"
 analysis(dc fields step) ""
 analysis(dc fields stepTypeLin) "Step Size"
 analysis(dc fields stepTypeLog) "Points Per Decade"
-analysis(dc fields stop) "-1.5m"
+analysis(dc fields stop) "1m"
 analysis(dc fields sweep) "Design Variable"
 analysis(dc fields sweepChange) nil
 analysis(dc fields useDiscrete) nil
