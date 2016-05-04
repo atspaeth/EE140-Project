@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      ee140-as
+HostName                       t7400-7.EECS.Berkeley.EDU
+ProcessIdentifier              5742
+ProcessCreationTime_UTC        1462320164
+ProcessCreationTime_Readable   Tue May  3 17:02:44 2016 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/cc/ee140/sp16/class/ee140-as/Desktop/ee140/EE140-Project/EE140-Project/proj/opamp_vreg_vdda/schematic/sch.oa.cdslck
+TimeEditLocked                 Tue May  3 18:53:37 2016 PDT
